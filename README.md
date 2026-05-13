@@ -39,14 +39,26 @@ const dev = {
 ### ⛓️ Web3 & Blockchain
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![Hedera](https://img.shields.io/badge/Hedera_Hashgraph-222222?style=for-the-badge&logo=hedera&logoColor=00BFFF)
+![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)
+![Soroban](https://img.shields.io/badge/Soroban-4B0082?style=for-the-badge&logo=stellar&logoColor=white)
+![Holochain](https://img.shields.io/badge/Holochain-228B22?style=for-the-badge&logoColor=white)
+![DFinity](https://img.shields.io/badge/Internet_Computer-FF6B00?style=for-the-badge&logo=dfinity&logoColor=white)
+![Klever](https://img.shields.io/badge/Klever-FF4D00?style=for-the-badge&logoColor=white)
 
 ### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00f5ff?style=for-the-badge&logoColor=black)
+[![AideaFlux](https://img.shields.io/badge/AideaFlux-95%2B_AI_Tools-06b6d4?style=for-the-badge&logo=artifacthub&logoColor=white)](https://aideaflux.xyz)
 
 ### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -54,6 +66,9 @@ const dev = {
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AMD](https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
@@ -78,9 +93,10 @@ const dev = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-web3-4all&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&count_private=true)
+![GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=dev-web3-4all&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=a78bfa&point=00f5ff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-web3-4all&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-web3-4all&theme=midnight_purple)
+![Most Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-web3-4all&theme=midnight_purple)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dev-web3-4all&theme=dark&hide_border=true&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=c9d1d9)
 
